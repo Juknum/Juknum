@@ -10,7 +10,8 @@ I'm a Student from the [University of Technology of Belfort-Montbéliard](https:
 - 📫 Contact: contact@faithful3d.team
 - 🌐 Website: www.faithful3d.team
 
-## Most useful repo of my Organizations:
+## Organizations:
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Faithful3D&repo=1%2E16&theme=dark&show_owner=true)](#)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Faithful%2DDungeons&repo=Resource%2DPack&theme=dark&show_owner=true)](#)
+<img width="25px" src="https://avatars1.githubusercontent.com/u/66220778?s=200&v=4"/> [Faithful 3D](https://github.com/Faithful3D)
+<br/>
+<img width="25px" src="https://avatars0.githubusercontent.com/u/66944654?s=200&v=4"/> [Faithful Dungeons](https://github.com/Faithful-Dungeons)
