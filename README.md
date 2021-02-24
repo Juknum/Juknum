@@ -6,6 +6,6 @@ I am a Student at [University of Technology of Belfort-Montbéliard](https://www
 
 
 ## My main project:
-- 🔭 I’m currently working on Faithful 3D!
+- 🔭 I’m the owner of Faithful 3D!
 - 📫 Contact: contact@faithful3d.team
 - 🌐 Website: www.faithful3d.team
