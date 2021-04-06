@@ -2,11 +2,11 @@
 <h1>Hey there! I'm Julien - aka Juknum 👋😃</h1>
 <!--Introduction -->
 <p>
-	I'm Juknum! I'm a <strong>Student at <a href="https://www.utbm.fr/">University of Technology of Belfort-Montbéliard</a> 🇫🇷</strong>. I'm passionate about making <strong>open-source</strong> more accessible, creating software and tools to help people, and <strong>building a community</strong>. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day.
+	I'm Juknum! I'm a <strong>Student at the<a href="https://www.utbm.fr/">University of Technology of Belfort-Montbéliard</a> 🇫🇷</strong>. I'm passionate about making <strong>open-source</strong> more accessible, creating software and tools to help people, and <strong>building a community</strong>.Please stars 🌟 a repository if you find it's project interesting, at least your star could make someone's day.
 </p>
 <br>
 <em>
-	<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊
+	<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to chat with you!</b> 😊
 </em>
 <hr>
 <!-- badges -->
@@ -20,8 +20,8 @@
 
 <h3>💼 Things that I'm currently working on: </h3>
 <ul>
-	<li>Developing Compliance Discord Bot</li>
-	<li>Developing Compliance Website</li>
+	<li>Developing the Compliance Discord Bot</li>
+	<li>Developing the Compliance Website</li>
 	<li>🔜 Working on Compliance 3D</li>
 </ul>
 
