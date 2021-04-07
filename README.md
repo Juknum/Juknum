@@ -2,7 +2,7 @@
 <h1>Hey there! I'm Julien - aka Juknum 👋😃</h1>
 <!--Introduction -->
 <p>
-	I'm Juknum! I'm a <strong>Student at the<a href="https://www.utbm.fr/">University of Technology of Belfort-Montbéliard</a> 🇫🇷</strong>. I'm passionate about making <strong>open-source</strong> more accessible, creating software and tools to help people, and <strong>building a community</strong>.Please stars 🌟 a repository if you find it's project interesting, at least your star could make someone's day.
+	I'm Juknum! I'm a <strong>Student at the<a href="https://www.utbm.fr/">University of Technology of Belfort-Montbéliard</a> 🇫🇷</strong>. I'm passionate about making <strong>open-source</strong> more accessible, creating software and tools to help people, and <strong>building a community</strong>. Please 🌟 a repository if you find it's project interesting, at least your star could make someone's day.
 </p>
 <br>
 <em>
