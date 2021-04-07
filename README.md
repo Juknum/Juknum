@@ -49,8 +49,8 @@
 </p>
 <h3>📈 Statistics:</h3>
 <p align="center">
-	<img height="150" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juknum&layout=compact&theme=dracula&hide_title=true">
-	<img height="150" alt="" src="https://github-readme-stats.vercel.app/api?username=Juknum&theme=dracula&hide=prs&show_icons=true&hide_title=true">
+	<img height="120" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juknum&layout=compact&theme=dracula&hide_title=true">
+	<img height="120" alt="" src="https://github-readme-stats.vercel.app/api?username=Juknum&theme=dracula&hide=prs&show_icons=true&hide_title=true">
 </p>
 <hr>
 <h4 align="center"> Thanks for Visiting! 😇</h4>
