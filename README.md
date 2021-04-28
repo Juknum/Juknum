@@ -52,6 +52,11 @@
 	<img height="120" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juknum&layout=compact&theme=dracula&hide_title=true">
 	<img height="120" alt="" src="https://github-readme-stats.vercel.app/api?username=Juknum&theme=dracula&hide=prs&show_icons=true&hide_title=true">
 </p>
-<figure><embed src="https://wakatime.com/share/@Juknum/8ee236ea-3d04-4756-987f-4399ec96376a.svg"></embed></figure>
+<div style="float: left; width: 50%; height: 60%">
+	<img src ="https://wakatime.com/share/@Juknum/8ee236ea-3d04-4756-987f-4399ec96376a.svg">
+</div>
+<div style="float: left; width: 50%; height: 60%">
+	<img src ="https://wakatime.com/share/@Juknum/f9fe2439-7336-4256-9d10-23af43835cb1.svg">
+</div>
 <hr>
 <h4 align="center"> Thanks for Visiting! 😇</h4>
