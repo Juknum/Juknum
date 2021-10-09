@@ -20,11 +20,11 @@
 
 <hr>
 
-<h3>💼 Things that I've recently made: </h3>
 
 <table align="center">
 	<tr>
 		<th>
+			<h3>💼 Things that I've made</h3>
 			<ol align="left">
 				<li>Developing cool stuff for the Compliance Community
 					<ul>
@@ -46,7 +46,8 @@
 			</ol>
 		</th>
 		<th>
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juknum&theme=dracula">
+			<h3>📈 Most used languages</h3>
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juknum&theme=dracula&hide_title=true">
 		</th>
 	</tr>
 </table>
