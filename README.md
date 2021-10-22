@@ -25,6 +25,13 @@
 	<tr>
 		<th>
 			<h3>💼 Things that I've made</h3>
+		</th>
+		<th>
+			<h3>📈 Most used languages</h3>
+		</th>
+	</tr>
+	<tr>
+		<th>
 			<ol align="left">
 				<li>Developing cool stuff for the Compliance Community
 					<ul>
@@ -36,6 +43,7 @@
 				</li>
 				<li>Studying Computer Science at UTBM
 					<ul>
+						<li><a href="https://github.com/Juknum/ChouMarin">Submarine IOT (C++)</a></li>
 						<li><a href="https://github.com/Juknum/Directory-Scanner">Directory Scanner (C)</a></li>
 						<li><a href="https://github.com/Juknum/Multi-Games-in-Unity">Multiples games in Unity (C#)</a></li>
 						<li><a href="https://github.com/Juknum/Ludo-Board">Ludo Board (Java)</a></li>
@@ -46,7 +54,6 @@
 			</ol>
 		</th>
 		<th>
-			<h3>📈 Most used languages</h3>
 			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juknum&theme=dracula&hide_title=true">
 		</th>
 	</tr>
