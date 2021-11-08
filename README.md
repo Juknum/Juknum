@@ -14,7 +14,7 @@
 	<a href="https://www.instagram.com/jlcnst"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;
 	<a href="https://twitter.com/Juknum_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;
 	<a href="mailto:julienconstant190@gmail.com"><img alt="Instagram" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
-	<a href="https://discordapp.com/users/207471947662098432"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;
+	<a href="https://discordapp.com/users/207471947662098432"><img alt="Discord" src="https://img.shields.io/badge/Discord-525DDB?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;
 	<a href="https://paypal.me/jlcnst"><img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>&nbsp;
 </p>
 
