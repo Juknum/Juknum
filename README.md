@@ -26,9 +26,6 @@
 		<th>
 			<h3>💼 Things that I've made</h3>
 		</th>
-		<th>
-			<h3>📈 Most used languages</h3>
-		</th>
 	</tr>
 	<tr>
 		<th>
@@ -52,9 +49,6 @@
 					</ul>
 				</li>
 			</ol>
-		</th>
-		<th>
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juknum&theme=dracula&hide_title=true">
 		</th>
 	</tr>
 </table>
