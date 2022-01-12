@@ -40,6 +40,7 @@
 				</li>
 				<li>Studying Computer Science at UTBM
 					<ul>
+						<li><a href="https://github.com/CyrilleStr/AP4B">Sim Power (Java)</a></li>
 						<li><a href="https://github.com/Juknum/ChouMarin">Submarine IOT (C++)</a></li>
 						<li><a href="https://github.com/Juknum/Directory-Scanner">Directory Scanner (C)</a></li>
 						<li><a href="https://github.com/Juknum/Multi-Games-in-Unity">Multiples games in Unity (C#)</a></li>
