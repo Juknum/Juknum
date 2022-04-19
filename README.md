@@ -22,11 +22,11 @@
 		<th width="500">
 			<ul align="left">
 				<li>
-					<h4>Developing for the Compliance Organisation</h4>
-					<a href="https://github.com/Compliance-Resource-Pack">Compliance</a>,
-					<a href="https://github.com/Compliance-Mods">Mods</a>,
-					<a href="https://github.com/Compliance-Dungeons">Dungeons</a>, and
-					<a href="https://github.com/Compliance-Addons">Add-ons</a>
+					<h4>Developing for the Faithful Organisation</h4>
+					<a href="https://github.com/Faithful-Resource-Pack">Faithful</a>,
+					<a href="https://github.com/Faithful-Mods">Mods</a>,
+					<a href="https://github.com/Faithful-Dungeons">Dungeons</a>, and
+					<a href="https://github.com/Faithful-Addons">Add-ons</a>
 				</li>
 				<li>
 					<h4>Studying Computer Science at UTBM</h4>
