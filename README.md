@@ -83,7 +83,10 @@
 	<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Juknum">
 	<img height="150" src="https://github-readme-stats.vercel.app/api?username=Juknum&show_icons=true&hide_title=true">
 </p>
+
 <h4 align="center">Thanks for Visiting!</h4>
 <p align="center">
+	<img src="https://profile-counter.glitch.me/Juknum/count.svg">
+	<br/><br/>
 	<img height="32" src="https://images-ext-2.discordapp.net/external/T6Cv-e0Xpc42I5VAV-G8wYCqt7mgI4ewjEWmtwDq4iU/https/cdn.discordapp.com/emojis/799357507126427699"> 
 </p>
