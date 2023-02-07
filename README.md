@@ -14,8 +14,6 @@
 	<a href="https://paypal.me/jlcnst"><img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>&nbsp;
 </p>
 
-<hr>
-
 <h2>💻 Things that I've developed:</h2>
 <ul align="left">
 	<li>
@@ -43,24 +41,6 @@
 		</ul>
 	</li>
 </ul>
-
-<hr>
-
-<p align="center">
-	<picture>
-		<source 
-		  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Juknum&langs_count=15&theme=dracula&layout=compact"
-		  media="(prefers-color-scheme: dark)"
-		/>
-		<source
-		  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Juknum&langs_count=15&theme=light&layout=compact"
-		  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-		/>
-		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Juknum&langs_count=15&layout=compact" />
-	</picture>
-	<br/>
-	<img src="https://wakatime.com/badge/user/09f02cd5-cd5e-406e-8cde-3fe372acff3c.svg?style=for-the-badge" alt="juknum" />
-</p>
 	
 <hr>
 <p align="center">
@@ -94,6 +74,24 @@
 	<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;
 </p>
 <hr>
+
+<p align="center">
+	<img src="https://wakatime.com/badge/user/09f02cd5-cd5e-406e-8cde-3fe372acff3c.svg?style=for-the-badge" alt="juknum" />
+</p>
+<p align="center">
+	<picture>
+		<source 
+		  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Juknum&langs_count=20&theme=dracula&layout=compact"
+		  media="(prefers-color-scheme: dark)"
+		/>
+		<source
+		  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Juknum&langs_count=20&theme=light&layout=compact"
+		  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+		/>
+		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Juknum&langs_count=20&layout=compact" />
+	</picture>
+</p>
+
 <p align="center">
 	<picture>
 		<source 
