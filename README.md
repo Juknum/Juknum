@@ -19,7 +19,7 @@
 <h2>💻 Things that I've developed:</h2>
 <table align="center">
 	<tr>
-		<th width="500">
+		<th width="500" valign="top">
 			<ul align="left">
 				<li>
 					<h4>Developing for the Faithful Organisation</h4>
@@ -30,19 +30,37 @@
 				</li>
 				<li>
 					<h4>Studying Computer Science at UTBM</h4>
-					<a href="https://github.com/CyrilleStr/SimPower">Sim Power (Java)</a>,
-					<a href="https://github.com/Juknum/ChouMarin">Submarine IOT (C++)</a>,
-					<a href="https://github.com/Juknum/Directory-Scanner">Directory Scanner (C)</a>,
-					<a href="https://github.com/Juknum/Multi-Games-in-Unity">Multiples games in Unity (C#)</a>,
-					<a href="https://github.com/Juknum/Ludo-Board">Ludo Board (Java)</a>,
-					<a href="https://github.com/Juknum/Systeme-Expert">Expert System (C)</a>, and
-					<a href="https://github.com/Juknum/Belote">Belote (C)</a>
+					<ul>
+						<li>Side Projects</li>
+						<a href="https://github.com/Juknum/UTBM-Internship-Report">Internship Report Template (LaTeX)</a>
+						<br/>
+						<br/>
+						<li>University Projects</li>
+						<a href="https://github.com/CyrilleStr/SimPower">Sim Power (Java)</a>,
+						<a href="https://github.com/Juknum/ChouMarin">Submarine IOT (C++)</a>,
+						<a href="https://github.com/Juknum/Directory-Scanner">Directory Scanner (C)</a>,
+						<a href="https://github.com/Juknum/Multi-Games-in-Unity">Multiples games in Unity (C#)</a>,
+						<a href="https://github.com/Juknum/Ludo-Board">Ludo Board (Java)</a>,
+						<a href="https://github.com/Juknum/Systeme-Expert">Expert System (C)</a>, and
+						<a href="https://github.com/Juknum/Belote">Belote (C)</a>
+					</ul>
 				</li>
 			</ul>
 		</th>
-		<th align="center">
-			<img src="https://github-readme-stats.vercel.app/api/top-langs?username=juknum&show_icons=true&locale=en&layout=compact" alt="juknum" />
-			<img src="https://wakatime.com/badge/user/09f02cd5-cd5e-406e-8cde-3fe372acff3c.svg" alt="juknum" />
+		<th align="center" valign="top">
+			<picture>
+				<source 
+				  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Juknum&langs_count=20&theme=dracula&layout=compact"
+				  media="(prefers-color-scheme: dark)"
+				/>
+				<source
+				  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Juknum&langs_count=20&theme=light&layout=compact"
+				  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+				/>
+				<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Juknum&langs_count=20&layout=compact" />
+			</picture>
+			<br/>
+			<img src="https://wakatime.com/badge/user/09f02cd5-cd5e-406e-8cde-3fe372acff3c.svg?style=for-the-badge" alt="juknum" />
 		</th>
 	</tr>
 </table>
@@ -80,8 +98,28 @@
 </p>
 <hr>
 <p align="center">
-	<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Juknum">
-	<img height="150" src="https://github-readme-stats.vercel.app/api?username=Juknum&show_icons=true&hide_title=true">
+	<picture>
+		<source 
+		  srcset="https://github-readme-streak-stats.herokuapp.com/?user=Juknum&theme=dracula&layout=compact"
+		  media="(prefers-color-scheme: dark)"
+		/>
+		<source
+		  srcset="https://github-readme-streak-stats.herokuapp.com/?user=Juknum&theme=light&layout=compact"
+		  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+		/>
+		<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Juknum&layout=compact" />
+	</picture>
+	<picture>
+		<source 
+		  srcset="https://github-readme-stats.vercel.app/api?username=Juknum&show_icons=true&theme=dracula&hide_title=true&layout=compact"
+		  media="(prefers-color-scheme: dark)"
+		/>
+		<source
+		  srcset="https://github-readme-stats.vercel.app/api?username=Juknum&show_icons=true&theme=light&hide_title=true&layout=compact"
+		  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+		/>
+		<img height="150" src="https://github-readme-stats.vercel.app/api?username=Juknum&show_icons=true&hide_title=true" />
+	</picture>
 </p>
 
 <h4 align="center">Thanks for Visiting!</h4>
