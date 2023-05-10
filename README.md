@@ -58,6 +58,7 @@ As a student, I had to work on various projects, sometimes in coordination with 
 </p>
 
 <br>
+<br>
 <ul>
  <li><a href="https://github.com/CyrilleStr/SimPower">Sim Power</a>&nbsp;—&nbsp;<kbd>Java</kbd>&nbsp;<kbd>AP4B</kbd></li>
  <li><a href="https://github.com/Juknum/ChouMarin">Submarine IOT</a>&nbsp;—&nbsp;<kbd>C++</kbd>&nbsp;<kbd>AP4A</kbd></li>
