@@ -1,6 +1,7 @@
 <h1 align="center">
 <img src="https://lumiere-a.akamaihd.net/v1/images/image_24de51ea.gif" height="28">
 Hello There
+<img src="https://lumiere-a.akamaihd.net/v1/images/image_24de51ea.gif" height="28">
 </h1>
 
 <p align="center">
