@@ -29,14 +29,11 @@ I am currently studying Computer Engineering at <a href="https://www.utbm.fr/">U
 <h3><a href="https://www.faithfulpack.net/">Faithful Organisation</a></h3>
 
 <p align="justify">
-Being a developer since the early days of the project until today, I have been assisting this well-known resource pack in meeting its diverse and varied needs. Including creating the website, a web application, a Discord bot, and an API to integrate everything seamlessly.
+Being a developer since the early days of the project until June 2023, I have been assisting this well-known resource pack in meeting its diverse and varied needs. Including creating the website, a web application, a Discord bot, and an API to integrate everything seamlessly.
 </p>
 
 <p align="left">
-<a href="https://github.com/Faithful-Resource-Pack">Faithful</a>,
-<a href="https://github.com/Faithful-Mods">Mods</a>,
-<a href="https://github.com/Faithful-Dungeons">Dungeons</a>, and
-<a href="https://github.com/Faithful-Addons">Add-ons</a>
+<a href="https://github.com/Faithful-Resource-Pack">Faithful</a>
 </p>
 
 <img src="https://avatars.githubusercontent.com/u/4517438" align="right" height="150">
