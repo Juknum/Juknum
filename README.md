@@ -36,7 +36,7 @@ In charge of maintaining the association's website since September 2021, we deci
  <a href="">API</a>
 </p>
 
-<img src="https://github.com/Juknum/Juknum/assets/49886317/905c087c-e1cd-47bd-b7d3-b846cc1ea0c4" align="left" height="150">
+<img src="https://github.com/Juknum/Juknum/assets/49886317/f44d7936-4048-4ebc-8036-37799c80fbec" align="left" width="150">
 
 <h3 align="left"><a href="https://utbm.fr">UTBM</a>'s Studies Projects</h3>
 <p align="justify">
