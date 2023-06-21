@@ -24,23 +24,11 @@ I am currently studying Computer Engineering at <a href="https://www.utbm.fr/">U
 
 ## Projects I'm working on
 
-<img src="https://database.faithfulpack.net/images/branding/logos/transparent/512/plain_logo.png" align="left" height="150" >
-
-<h3><a href="https://www.faithfulpack.net/">Faithful Organisation</a></h3>
-
-<p align="justify">
-Being a developer since the early days of the project until June 2023, I have been assisting this well-known resource pack in meeting its diverse and varied needs. Including creating the website, a web application, a Discord bot, and an API to integrate everything seamlessly.
-</p>
-
-<p align="left">
-<a href="https://github.com/Faithful-Resource-Pack">Faithful</a>
-</p>
-
 <img src="https://avatars.githubusercontent.com/u/4517438" align="right" height="150">
 
 <h3 align="right"><a href="https://ae.utbm.fr">Association of Students of the UTBM</a></h3>
 <p align="justify">
-In charge of maintaining the association's website since September 2021, we decided to start a rewrite of the website to make it more modern and easier to maintain, including a new API to manage the association's data and making it available to everyone within the association.
+In charge of maintaining the association's website since September 2021, we decided to start a rewrite to make it more modern and easier to maintain, including a new API to manage the association's data and make it available to everyone within the association.
 </p>
 
 <p align="right">
@@ -52,20 +40,33 @@ In charge of maintaining the association's website since September 2021, we deci
 
 <h3 align="left"><a href="https://utbm.fr">UTBM</a>'s Studies Projects</h3>
 <p align="justify">
-As a student, I had to work on various projects, sometimes in coordination with others students, which you can find below. I have also made some side projects for myself and other students such as the <a href="">LaTeX template</a> for the internship report.
+As a student, I had to work on various projects, sometimes in coordination with other students, which you can find below. I have also made some side projects for myself and other students such as the <a href="https://github.com/Juknum/UTBM-Internship-Report">LaTeX template</a> for the internship report.
 </p>
 
 <br>
-<br>
-<ul>
- <li><a href="https://github.com/CyrilleStr/SimPower">Sim Power</a>&nbsp;—&nbsp;<kbd>Java</kbd>&nbsp;<kbd>AP4B</kbd></li>
- <li><a href="https://github.com/Juknum/ChouMarin">Submarine IOT</a>&nbsp;—&nbsp;<kbd>C++</kbd>&nbsp;<kbd>AP4A</kbd></li>
- <li><a href="https://github.com/Juknum/Directory-Scanner">Directory Scanner</a>&nbsp;—&nbsp;<kbd>C</kbd>&nbsp;<kbd>LP25</kbd></li>
- <li><a href="https://github.com/Juknum/Multi-Games-in-Unity">Multiples games in Unity</a>&nbsp;—&nbsp;<kbd>C#</kbd>&nbsp;<kbd>LP2B</kbd></li>
- <li><a href="https://github.com/Juknum/Ludo-Board">Ludo Board</a>&nbsp;—&nbsp;<kbd>Java</kbd>&nbsp;<kbd>LP2A</kbd></li>
- <li><a href="https://github.com/Juknum/Systeme-Expert">Expert System</a>&nbsp;—&nbsp;<kbd>C</kbd>&nbsp;<kbd>LO21</kbd></li>
- <li><a href="https://github.com/Juknum/Belote">Belote</a>&nbsp;—&nbsp;<kbd>C</kbd>&nbsp;<kbd>IFB</kbd></li>
-</ul>
+<p align="center">
+ <a href="https://github.com/CyrilleStr/SimPower">Sim Power</a>&nbsp;-&nbsp;<kbd>Java</kbd>&nbsp;<kbd>AP4B</kbd>&nbsp;&nbsp;—&nbsp;
+ <a href="https://github.com/Juknum/ChouMarin">Submarine IOT</a>&nbsp;-&nbsp;<kbd>C++</kbd>&nbsp;<kbd>AP4A</kbd>&nbsp;&nbsp;—&nbsp;
+ <a href="https://github.com/Juknum/Directory-Scanner">Directory Scanner</a>&nbsp;-&nbsp;<kbd>C</kbd>&nbsp;<kbd>LP25</kbd>&nbsp;&nbsp;—&nbsp;
+ <a href="https://github.com/Juknum/Multi-Games-in-Unity">Multiples games in Unity</a>&nbsp;-&nbsp;<kbd>C#</kbd>&nbsp;<kbd>LP2B</kbd>&nbsp;&nbsp;—&nbsp;
+ <a href="https://github.com/Juknum/Ludo-Board">Ludo Board</a>&nbsp;-&nbsp;<kbd>Java</kbd>&nbsp;<kbd>LP2A</kbd>&nbsp;&nbsp;—&nbsp;
+ <a href="https://github.com/Juknum/Systeme-Expert">Expert System</a>&nbsp;-&nbsp;<kbd>C</kbd>&nbsp;<kbd>LO21</kbd>&nbsp;&nbsp;—&nbsp;
+ <a href="https://github.com/Juknum/Belote">Belote Card Game</a>&nbsp;-&nbsp;<kbd>C</kbd>&nbsp;<kbd>IFB</kbd>
+</p>
+
+## Projects I worked on
+
+<img src="https://database.faithfulpack.net/images/branding/logos/transparent/512/plain_logo.png" align="left" height="150" >
+
+<h3><a href="https://www.faithfulpack.net/">Faithful Organisation</a></h3>
+
+<p align="justify">
+Being a developer since the early days of the project until June 2023, I have been assisting this well-known resource pack in meeting its diverse and varied needs. Including creating the website, a web application, a Discord bot, and an API to integrate everything seamlessly.
+</p>
+
+<p align="left">
+<a href="https://github.com/Faithful-Resource-Pack">Faithful</a>
+</p>
 
 ## Stats & Languages I use
 
