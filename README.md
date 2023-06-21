@@ -45,13 +45,14 @@ As a student, I had to work on various projects, sometimes in coordination with 
 
 <br>
 <p align="center">
- <a href="https://github.com/CyrilleStr/SimPower">Sim Power</a>&nbsp;-&nbsp;<kbd>Java</kbd>&nbsp;<kbd>AP4B</kbd>&nbsp;&nbsp;—&nbsp;
- <a href="https://github.com/Juknum/ChouMarin">Submarine IOT</a>&nbsp;-&nbsp;<kbd>C++</kbd>&nbsp;<kbd>AP4A</kbd>&nbsp;&nbsp;—&nbsp;
- <a href="https://github.com/Juknum/Directory-Scanner">Directory Scanner</a>&nbsp;-&nbsp;<kbd>C</kbd>&nbsp;<kbd>LP25</kbd>&nbsp;&nbsp;—&nbsp;
- <a href="https://github.com/Juknum/Multi-Games-in-Unity">Multiples games in Unity</a>&nbsp;-&nbsp;<kbd>C#</kbd>&nbsp;<kbd>LP2B</kbd>&nbsp;&nbsp;—&nbsp;
- <a href="https://github.com/Juknum/Ludo-Board">Ludo Board</a>&nbsp;-&nbsp;<kbd>Java</kbd>&nbsp;<kbd>LP2A</kbd>&nbsp;&nbsp;—&nbsp;
- <a href="https://github.com/Juknum/Systeme-Expert">Expert System</a>&nbsp;-&nbsp;<kbd>C</kbd>&nbsp;<kbd>LO21</kbd>&nbsp;&nbsp;—&nbsp;
- <a href="https://github.com/Juknum/Belote">Belote Card Game</a>&nbsp;-&nbsp;<kbd>C</kbd>&nbsp;<kbd>IFB</kbd>
+ <a href="https://github.com/Juknum/Piggy-Bank">Piggy-Bank</a>&nbsp;<kbd>Kotlin</kbd>&nbsp;<kbd>SY43</kbd>&nbsp;&nbsp;—&nbsp;
+ <a href="https://github.com/CyrilleStr/SimPower">Sim Power</a>&nbsp;<kbd>Java</kbd>&nbsp;<kbd>AP4B</kbd>&nbsp;&nbsp;—&nbsp;
+ <a href="https://github.com/Juknum/ChouMarin">Submarine IOT</a>&nbsp;<kbd>C++</kbd>&nbsp;<kbd>AP4A</kbd>&nbsp;&nbsp;—&nbsp;
+ <a href="https://github.com/Juknum/Directory-Scanner">Directory Scanner</a>&nbsp;<kbd>C</kbd>&nbsp;<kbd>LP25</kbd>&nbsp;&nbsp;—&nbsp;
+ <a href="https://github.com/Juknum/Multi-Games-in-Unity">Multiples games in Unity</a>&nbsp;<kbd>C#</kbd>&nbsp;<kbd>LP2B</kbd>&nbsp;&nbsp;—&nbsp;
+ <a href="https://github.com/Juknum/Ludo-Board">Ludo Board</a>&nbsp;<kbd>Java</kbd>&nbsp;<kbd>LP2A</kbd>&nbsp;&nbsp;—&nbsp;
+ <a href="https://github.com/Juknum/Systeme-Expert">Expert System</a>&nbsp;<kbd>C</kbd>&nbsp;<kbd>LO21</kbd>&nbsp;&nbsp;—&nbsp;
+ <a href="https://github.com/Juknum/Belote">Belote Card Game</a>&nbsp;<kbd>C</kbd>&nbsp;<kbd>IFB</kbd>
 </p>
 
 ## Projects I worked on
