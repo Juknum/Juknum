@@ -33,7 +33,7 @@ In charge of maintaining the association's website since September 2021, we deci
 
 <p align="right">
  <a href="https://github.com/ae-utbm/sith4">Website</a>&nbsp;
- <a href="">API</a>
+ <a href="https://github.com/ae-utbm/api">API</a>
 </p>
 
 <img src="https://github.com/Juknum/Juknum/assets/49886317/f44d7936-4048-4ebc-8036-37799c80fbec" align="left" width="150">
