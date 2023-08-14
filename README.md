@@ -81,7 +81,7 @@ Being a developer since the early days of the project until June 2023, I have be
    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Juknum&langs_count=10&theme=light&layout=compact" 
    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=Juknum&langs_count=10&layout=compact" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=Juknum&langs_count=10&layout=compact" />
  </picture>
  <picture>
   <source
@@ -90,7 +90,7 @@ Being a developer since the early days of the project until June 2023, I have be
   <source
    srcset="https://github-readme-stats.vercel.app/api?username=Juknum&show_icons=true&theme=light&hide_title=true&layout=compact"
    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Juknum&show_icons=true&hide_title=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Juknum&show_icons=true&hide_title=true" />
  </picture>
  <picture>
   <source 
@@ -99,7 +99,7 @@ Being a developer since the early days of the project until June 2023, I have be
   <source 
    srcset="https://github-readme-streak-stats.herokuapp.com/?user=Juknum&theme=light&layout=compact" 
    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Juknum&layout=compact" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Juknum&layout=compact" />
  </picture>
 </p>
 
