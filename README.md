@@ -71,36 +71,37 @@ Being a developer since the early days of the project until June 2023, I have be
 
 ## Stats & Languages I use
 
-<table>
- <tr>
-  <th>
-   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Juknum&langs_count=20&theme=dark&layout=compact" media="(prefers-color-scheme: dark)"
-    />
-    <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Juknum&langs_count=20&theme=light&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=Juknum&langs_count=20&layout=compact" />
-   </picture>
-  </th>
-  <th>
-   <picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Juknum&theme=dark&layout=compact" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Juknum&theme=light&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=Juknum&layout=compact" />
-   </picture>
-   <br>
-   <picture>
-    <source
-     srcset="https://github-readme-stats.vercel.app/api?username=Juknum&show_icons=true&theme=dark&hide_title=true&layout=compact"
-     media="(prefers-color-scheme: dark)" />
-    <source
-     srcset="https://github-readme-stats.vercel.app/api?username=Juknum&show_icons=true&theme=light&hide_title=true&layout=compact"
-     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img width="450" src="https://github-readme-stats.vercel.app/api?username=Juknum&show_icons=true&hide_title=true" />
-   </picture>
-  </th>
- </tr>
-</table>
+<p align="center">
+ <picture>
+  <source 
+   srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Juknum&langs_count=10&theme=dark&layout=compact" 
+   media="(prefers-color-scheme: dark)"
+  />
+  <source 
+   srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Juknum&langs_count=10&theme=light&layout=compact" 
+   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/wakatime?username=Juknum&langs_count=10&layout=compact" />
+ </picture>
+ <picture>
+  <source
+   srcset="https://github-readme-stats.vercel.app/api?username=Juknum&show_icons=true&theme=dark&hide_title=true&layout=compact"
+   media="(prefers-color-scheme: dark)" />
+  <source
+   srcset="https://github-readme-stats.vercel.app/api?username=Juknum&show_icons=true&theme=light&hide_title=true&layout=compact"
+   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Juknum&show_icons=true&hide_title=true" />
+ </picture>
+ <picture>
+  <source 
+   srcset="https://github-readme-streak-stats.herokuapp.com/?user=Juknum&theme=dark&layout=compact" 
+   media="(prefers-color-scheme: dark)" />
+  <source 
+   srcset="https://github-readme-streak-stats.herokuapp.com/?user=Juknum&theme=light&layout=compact" 
+   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=Juknum&layout=compact" />
+ </picture>
+</p>
 
 <p align="center">
  <img src="https://wakatime.com/badge/user/09f02cd5-cd5e-406e-8cde-3fe372acff3c.svg?style=for-the-badge" alt="juknum" />
