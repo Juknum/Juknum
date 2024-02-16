@@ -69,39 +69,7 @@ Being a developer since the early days of the project until June 2023, I have be
 <a href="https://github.com/Faithful-Resource-Pack">Faithful</a>
 </p>
 
-## Some statistics 
-
-<p align="center">
- <picture>
-  <source 
-   srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Juknum&langs_count=10&theme=dark&layout=compact" 
-   media="(prefers-color-scheme: dark)"
-  />
-  <source 
-   srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Juknum&langs_count=10&theme=light&layout=compact" 
-   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=Juknum&langs_count=10&layout=compact" />
- </picture>
- <picture>
-  <source
-   srcset="https://github-readme-stats.vercel.app/api?username=Juknum&show_icons=true&theme=dark&hide_title=true&layout=compact"
-   media="(prefers-color-scheme: dark)" />
-  <source
-   srcset="https://github-readme-stats.vercel.app/api?username=Juknum&show_icons=true&theme=light&hide_title=true&layout=compact"
-   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Juknum&show_icons=true&hide_title=true" />
- </picture>
- <picture>
-  <source 
-   srcset="https://github-readme-streak-stats.herokuapp.com/?user=Juknum&theme=dark&layout=compact" 
-   media="(prefers-color-scheme: dark)" />
-  <source 
-   srcset="https://github-readme-streak-stats.herokuapp.com/?user=Juknum&theme=light&layout=compact" 
-   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Juknum&layout=compact" />
- </picture>
-</p>
+## Some stats
 
 <p align="center">
  <picture>
@@ -122,6 +90,8 @@ Being a developer since the early days of the project until June 2023, I have be
 </p>
 
 <p align="center"><a href="https://wakatime.com/share/@Juknum/d13751c3-4ac7-49db-9d51-6a985560505d.svg" target="_blank">Heatmap since 27th April 2021</a></p>
+
+---
 
 <h4 align="center">Thanks for Visiting!</h4>
 <p align="center">
