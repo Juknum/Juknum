@@ -69,7 +69,7 @@ Being a developer since the early days of the project until June 2023, I have be
 <a href="https://github.com/Faithful-Resource-Pack">Faithful</a>
 </p>
 
-## Some stats
+## Activity
 
 <p align="center">
  <picture>
