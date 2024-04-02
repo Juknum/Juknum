@@ -18,7 +18,7 @@ Hello There
 I am currently studying Computer Science Engineering at <a href="https://www.utbm.fr/">University of Technology of Belfort-Montbéliard</a> in France 🇫🇷, and I lend a helping hand in developing all kinds of projects, whether it's a simple script or a much more complex entity!
 </p>
 <br>
-<p align="center"><em>Please 🌟 a repository if you find its project interesting, at least your star could make someone's day.</em></p>
+<p align="center"><em>Please 🌟 a repository if you find it interesting, at least your star could make someone's day.</em></p>
 
 <br>
 
