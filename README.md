@@ -24,6 +24,10 @@ I am currently studying Computer Science Engineering at <a href="https://www.utb
 
 ## Projects I'm working on
 
+SoonTM
+
+## Projects I worked on
+
 <img src="https://avatars.githubusercontent.com/u/4517438" align="right" height="150">
 
 <h3 align="right"><a href="https://ae.utbm.fr">Association of Students of the UTBM</a></h3>
@@ -54,8 +58,6 @@ As a student, I had to work on various projects, sometimes in coordination with 
  <a href="https://github.com/Juknum/Systeme-Expert">Expert System</a>&nbsp;<kbd>C</kbd>&nbsp;<kbd>LO21</kbd>&nbsp;&nbsp;—&nbsp;
  <a href="https://github.com/Juknum/Belote">Belote Card Game</a>&nbsp;<kbd>C</kbd>&nbsp;<kbd>IFB</kbd>
 </p>
-
-## Projects I worked on
 
 <img src="https://database.faithfulpack.net/images/branding/logos/transparent/512/plain_logo.png" align="left" height="150" >
 
