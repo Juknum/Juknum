@@ -14,61 +14,50 @@ Hello There
 
 <br>
 
-<p align="center">
-I am currently studying Computer Science Engineering at <a href="https://www.utbm.fr/">University of Technology of Belfort-Montbéliard</a> in France 🇫🇷, and I lend a helping hand in developing all kinds of projects, whether it's a simple script or a much more complex entity!
-</p>
-<br>
-<p align="center"><em>Please 🌟 a repository if you find it interesting, at least your star could make someone's day.</em></p>
-
-<br>
-
+<!--
 ## Projects I'm working on
-
-SoonTM
+-->
 
 ## Projects I worked on
 
 <img src="https://avatars.githubusercontent.com/u/4517438" align="right" height="150">
 
-<h3 align="right"><a href="https://ae.utbm.fr">Association of Students of the UTBM</a></h3>
+<h3><a href="https://ae.utbm.fr">UTBM's Students Association</a></h3>
 <p align="justify">
-In charge of maintaining the association's website since September 2021, we decided to start a rewrite to make it more modern and easier to maintain, including a new API to manage the association's data and make it available to everyone within the association.
+In charge of maintaining the association's website from September 2021 until June 2023, we've decided to start a rewrite to make it more modern and easier to maintain, including a new API to manage the association's data and make it available to everyone within the association.
 </p>
 
-<p align="right">
- <a href="https://github.com/ae-utbm/sith4">Website</a>&nbsp;
- <a href="https://github.com/ae-utbm/api">API</a>
+<p>
+<a href="https://github.com/ae-utbm/api">API</a>&nbsp;•
+<a href="https://github.com/ae-utbm/sith4">Website</a>
 </p>
 
-<img src="https://github.com/Juknum/Juknum/assets/49886317/f44d7936-4048-4ebc-8036-37799c80fbec" align="left" width="150">
+<img src="https://github.com/Juknum/Juknum/assets/49886317/f44d7936-4048-4ebc-8036-37799c80fbec" align="right" width="150">
 
-<h3 align="left"><a href="https://utbm.fr">UTBM</a>'s Studies Projects</h3>
+<h3><a href="https://utbm.fr">UTBM</a>'s studies projects</h3>
 <p align="justify">
 As a student, I had to work on various projects, sometimes in coordination with other students, which you can find below. I have also made some side projects for myself and other students such as the <a href="https://github.com/Juknum/UTBM-Internship-Report">LaTeX template</a> for the internship report.
-</p>
-
 <br>
-<p align="center">
- <a href="https://github.com/Juknum/Piggy-Bank">Piggy-Bank</a>&nbsp;<kbd>Kotlin</kbd>&nbsp;<kbd>SY43</kbd>&nbsp;&nbsp;—&nbsp;
- <a href="https://github.com/CyrilleStr/SimPower">Sim Power</a>&nbsp;<kbd>Java</kbd>&nbsp;<kbd>AP4B</kbd>&nbsp;&nbsp;—&nbsp;
- <a href="https://github.com/Juknum/ChouMarin">Submarine IOT</a>&nbsp;<kbd>C++</kbd>&nbsp;<kbd>AP4A</kbd>&nbsp;&nbsp;—&nbsp;
- <a href="https://github.com/Juknum/Directory-Scanner">Directory Scanner</a>&nbsp;<kbd>C</kbd>&nbsp;<kbd>LP25</kbd>&nbsp;&nbsp;—&nbsp;
- <a href="https://github.com/Juknum/Multi-Games-in-Unity">Multiples games in Unity</a>&nbsp;<kbd>C#</kbd>&nbsp;<kbd>LP2B</kbd>&nbsp;&nbsp;—&nbsp;
- <a href="https://github.com/Juknum/Ludo-Board">Ludo Board</a>&nbsp;<kbd>Java</kbd>&nbsp;<kbd>LP2A</kbd>&nbsp;&nbsp;—&nbsp;
- <a href="https://github.com/Juknum/Systeme-Expert">Expert System</a>&nbsp;<kbd>C</kbd>&nbsp;<kbd>LO21</kbd>&nbsp;&nbsp;—&nbsp;
- <a href="https://github.com/Juknum/Belote">Belote Card Game</a>&nbsp;<kbd>C</kbd>&nbsp;<kbd>IFB</kbd>
+<ul>
+<li>A <a href="https://github.com/Juknum/Piggy-Bank">zero-based budgeting</a> app in Kotlin</li>
+<li>A <a href="https://github.com/Juknum/Ludo-Board">Ludo Board</a> and a <a href="https://github.com/CyrilleStr/SimPower">Sim City</a> like game in Java</li>
+<li>A <a href="https://github.com/Juknum/ChouMarin">Submarine IOT</a> in C++</li>
+<li>A <a href="https://github.com/Juknum/Directory-Scanner">Directory Scanner</a>, an <a href="https://github.com/Juknum/Systeme-Expert">Expert System</a> and a <a href="https://github.com/Juknum/Belote">Belote Card</a> game in C</li>
+</ul>
 </p>
 
-<img src="https://database.faithfulpack.net/images/branding/logos/transparent/512/plain_logo.png" align="left" height="150" >
+<img src="https://database.faithfulpack.net/images/branding/logos/transparent/512/plain_logo.png" align="right" height="150" >
 
-<h3><a href="https://www.faithfulpack.net/">Faithful Organisation</a></h3>
-
+<h3><a href="https://www.faithfulpack.net/">Faithful Resource Pack</a></h3>
 <p align="justify">
 Being a developer since the early days of the project until June 2023, I have been assisting this well-known resource pack in meeting its diverse and varied needs. Including creating the website, a web application, a Discord bot, and an API to integrate everything seamlessly.
 </p>
 
-<p align="left">
-<a href="https://github.com/Faithful-Resource-Pack">Faithful</a>
+<p>
+<a href="https://github.com/Faithful-Resource-Pack/API">API</a>&nbsp;•
+<a href="https://github.com/Faithful-Resource-Pack/Website">Website</a>&nbsp;•
+<a href="https://github.com/Faithful-Resource-Pack/App">Web App</a>&nbsp;•
+<a href="https://github.com/Faithful-Resource-Pack/CompliBot">Discord Bot</a>
 </p>
 
 ## Activity
@@ -91,7 +80,7 @@ Being a developer since the early days of the project until June 2023, I have be
  <img src="https://wakatime.com/badge/user/09f02cd5-cd5e-406e-8cde-3fe372acff3c.svg?style=for-the-badge" alt="juknum" />
 </p>
 
-<p align="center"><a href="https://wakatime.com/share/@Juknum/d13751c3-4ac7-49db-9d51-6a985560505d.svg" target="_blank">Heatmap since 27th April 2021</a></p>
+<p align="center"><a href="https://wakatime.com/share/@Juknum/d13751c3-4ac7-49db-9d51-6a985560505d.svg" target="_blank">Heatmap since 2021</a></p>
 
 ---
 
