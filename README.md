@@ -46,7 +46,7 @@ As a student, I had to work on various projects, sometimes in coordination with 
 </ul>
 </p>
 
-<img src="https://database.faithfulpack.net/images/branding/logos/transparent/512/plain_logo.png" align="right" height="150" >
+<img src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/main_logo.gif" align="right" height="150" >
 
 <h3><a href="https://www.faithfulpack.net/">Faithful Resource Pack</a></h3>
 <p align="justify">
