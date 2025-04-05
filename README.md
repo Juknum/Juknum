@@ -32,7 +32,7 @@ In charge of maintaining the association's website from September 2021 until Jun
 <a href="https://github.com/ae-utbm/sith4">Website</a>
 </p>
 
-<img src="https://github.com/Juknum/Juknum/assets/49886317/f44d7936-4048-4ebc-8036-37799c80fbec" align="right" width="150">
+<img src="https://github.com/user-attachments/assets/e66b2731-48f3-434d-9712-6cfc86d919a9" align="right" width="150">
 
 <h3><a href="https://utbm.fr">UTBM</a>'s studies projects</h3>
 <p align="justify">
