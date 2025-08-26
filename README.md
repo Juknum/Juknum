@@ -5,11 +5,11 @@ Hello There
 </h1>
 
 <p align="center">
- <a href="https://twitter.com/Juknum_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;
- <a href="mailto:contact@juknum.fr"><img alt="Instagram" src="https://img.shields.io/badge/Email-0096aa?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
- <a href="https://www.linkedin.com/in/juknum"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
- <a href="https://discordapp.com/users/207471947662098432"><img alt="Discord" src="https://img.shields.io/badge/Discord-525DDB?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;
- <a href="https://paypal.me/jlcnst"><img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>&nbsp;
+ <a href="https://twitter.com/Juknum_"><img alt="" src="https://img.shields.io/badge/Twitter-000?style=for-the-badge"></a>&nbsp;
+ <a href="mailto:contact@juknum.fr"><img alt="" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge"></a>&nbsp;
+ <a href="https://www.linkedin.com/in/juknum"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"></a>&nbsp;
+ <a href="https://discordapp.com/users/207471947662098432"><img alt="Discord" src="https://img.shields.io/badge/Discord-525DDB?style=for-the-badge"></a>&nbsp;
+ <a href="https://paypal.me/jlcnst"><img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge"></a>&nbsp;
 </p>
 
 <br>
@@ -84,9 +84,8 @@ Being a developer since the early days of the project until June 2023, I have be
 
 ---
 
-<h4 align="center">Thanks for Visiting!</h4>
 <p align="center">
- <img src="https://profile-counter.glitch.me/Juknum/count.svg">
+ <img src="https://komarev.com/ghpvc/?username=Juknum&style=for-the-badge&color=000000&base=4212&label=Thanks%20for%20Visiting!">
  <br/><br/>
  <img height="32" src="https://images-ext-2.discordapp.net/external/T6Cv-e0Xpc42I5VAV-G8wYCqt7mgI4ewjEWmtwDq4iU/https/cdn.discordapp.com/emojis/799357507126427699">
 </p>
