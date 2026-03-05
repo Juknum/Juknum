@@ -21,38 +21,43 @@ On the side, I also tinker on personal projects. Most recently, I've been workin
 <summary><strong>Click to expand</strong></summary>
 <br>
 
-<img src="https://avatars.githubusercontent.com/u/4517438" align="right" height="150">
-
-<h3><a href="https://ae.utbm.fr">UTBM's Students Association</a></h3>
-<p align="justify">
-In charge of maintaining the association's website from September 2021 until June 2023, we've decided to start a rewrite to make it more modern and easier to maintain, including a new API to manage the association's data and make it available to everyone within the association.
-</p>
-
-<p>
-<a href="https://github.com/ae-utbm/api">API</a>&nbsp;•
-<a href="https://github.com/ae-utbm/sith4">Website</a>
-</p>
-
-<img src="https://github.com/user-attachments/assets/e66b2731-48f3-434d-9712-6cfc86d919a9" align="right" width="150">
-
-<h3><a href="https://utbm.fr">UTBM</a>'s studies projects</h3>
-<p align="justify">
-As a student, I had to work on various projects, sometimes in coordination with other students, which you can find on my profile. I have also made some side projects for myself and other students like this <a href="https://github.com/Juknum/UTBM-Internship-Report">LaTeX template</a> for the internship reports.
-</p>
-
-<img src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/main_logo.gif" align="right" height="150">
+<img src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/main_logo.gif" align="left" height="150">
 
 <h3><a href="https://www.faithfulpack.net/">Faithful Resource Pack</a></h3>
 <p align="justify">
 Being a developer since the early days of the project until June 2023, I have been assisting this well-known resource pack in meeting its diverse and varied needs. Including creating the website, a web application, a Discord bot, and an API to integrate everything seamlessly.
 </p>
 
-<p>
+<p align="right">
 <a href="https://github.com/Faithful-Resource-Pack/API">API</a>&nbsp;•
 <a href="https://github.com/Faithful-Resource-Pack/Website">Website</a>&nbsp;•
 <a href="https://github.com/Faithful-Resource-Pack/App">Web App</a>&nbsp;•
 <a href="https://github.com/Faithful-Resource-Pack/CompliBot">Discord Bot</a>
 </p>
+
+<img src="https://avatars.githubusercontent.com/u/4517438" align="left" height="150">
+
+<h3><a href="https://ae.utbm.fr">UTBM's Students Association</a></h3>
+<p align="justify">
+In charge of maintaining the association's website from September 2021 until June 2023, we've decided to start a rewrite to make it more modern and easier to maintain, including a new API to manage the association's data and make it available to everyone within the association.
+</p>
+
+<p align="right">
+<a href="https://github.com/ae-utbm/api">API</a>&nbsp;•
+<a href="https://github.com/ae-utbm/sith4">Website</a>
+</p>
+
+<img src="https://github.com/user-attachments/assets/e66b2731-48f3-434d-9712-6cfc86d919a9" align="left" width="150">
+
+<h3><a href="https://utbm.fr">UTBM</a>'s studies projects</h3>
+<p align="justify">
+As a student, I had to work on various projects, sometimes in coordination with other students, which you can find on my profile. I have also made some side projects for myself and other students:
+</p>
+
+<p align="right">
+<a href="https://github.com/Juknum/UTBM-Internship-Report">UTBM Internship Report LaTeX template</a>&nbsp;
+</p>
+<br/>
 
 </details>
 
