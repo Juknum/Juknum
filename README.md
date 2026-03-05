@@ -12,15 +12,11 @@ Hello There
  <a href="https://paypal.me/jlcnst"><img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge"></a>&nbsp;
 </p>
 
-<br>
-
 ## What I'm up to
 
 I'm currently working full time as an **analyst & software developer**, primarily around **.NET technologies** — building, maintaining, and improving software solutions day to day.
 
 On the side, I also tinker on personal projects. Most recently, I've been working on **[CSStats+](https://github.com/Juknum/csstats-plus)**, a browser extension that enhances the [csstats.gg](https://csstats.gg) experience with additional stats and quality-of-life improvements.
-
-<br>
 
 ## Projects I worked on
 
@@ -40,16 +36,12 @@ In charge of maintaining the association's website from September 2021 until Jun
 <a href="https://github.com/ae-utbm/sith4">Website</a>
 </p>
 
-<br clear="right">
-
 <img src="https://github.com/user-attachments/assets/e66b2731-48f3-434d-9712-6cfc86d919a9" align="right" width="150">
 
 <h3><a href="https://utbm.fr">UTBM</a>'s studies projects</h3>
 <p align="justify">
-As a student, I had to work on various projects, sometimes in coordination with other students, which you can find below. I have also made some side projects for myself and other students such as the <a href="https://github.com/Juknum/UTBM-Internship-Report">LaTeX template</a> for the internship report.
+As a student, I had to work on various projects, sometimes in coordination with other students, which you can find on my profile. I have also made some side projects for myself and other students like this <a href="https://github.com/Juknum/UTBM-Internship-Report">LaTeX template</a> for the internship reports.
 </p>
-
-<br clear="right">
 
 <img src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/main_logo.gif" align="right" height="150">
 
@@ -64,8 +56,6 @@ Being a developer since the early days of the project until June 2023, I have be
 <a href="https://github.com/Faithful-Resource-Pack/App">Web App</a>&nbsp;•
 <a href="https://github.com/Faithful-Resource-Pack/CompliBot">Discord Bot</a>
 </p>
-
-<br clear="right">
 
 </details>
 
