@@ -5,7 +5,6 @@ Hello There
 </h1>
 
 <p align="center">
- <img src="https://wakatime.com/badge/user/09f02cd5-cd5e-406e-8cde-3fe372acff3c.svg?style=for-the-badge" alt="juknum" />
  <img src="https://komarev.com/ghpvc/?username=Juknum&style=for-the-badge&base=4212&label=Thanks%20for%20Visiting!">
 </p>
 
@@ -62,26 +61,6 @@ As a student, I had to work on various projects, sometimes in coordination with 
 </details>
 
 ---
-
-### Personnal Activity
-
-> Work hours are not shown :p
-
-<p align="center">
- <picture>
-  <source 
-   srcset="https://wakatime.com/share/@Juknum/a617def5-5f29-4fcc-9bba-9910bbd0caf8.svg"
-   media="(prefers-color-scheme: dark)"
-  />
-  <source 
-   srcset="https://wakatime.com/share/@Juknum/17c70316-3063-46e7-84fc-0bcf4ed37477.svg"
-   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="150" src="https://wakatime.com/share/@Juknum/17c70316-3063-46e7-84fc-0bcf4ed37477.svg" />
- </picture>
-</p>
-
-<p align="center"><a href="https://wakatime.com/share/@Juknum/d13751c3-4ac7-49db-9d51-6a985560505d.svg" target="_blank">Heatmap since 2021</a></p>
 
 <p align="center">
  <img height="32" src="https://images-ext-2.discordapp.net/external/T6Cv-e0Xpc42I5VAV-G8wYCqt7mgI4ewjEWmtwDq4iU/https/cdn.discordapp.com/emojis/799357507126427699">
