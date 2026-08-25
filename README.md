@@ -110,10 +110,10 @@ As an engineering student at UTBM, I developed various academic and collaborativ
 </p>
 <br>
 
-</details>
-
 <br>
 
 <p align="center">
  <img height="32" src="https://images-ext-2.discordapp.net/external/T6Cv-e0Xpc42I5VAV-G8wYCqt7mgI4ewjEWmtwDq4iU/https/cdn.discordapp.com/emojis/799357507126427699">
 </p>
+
+</details>
