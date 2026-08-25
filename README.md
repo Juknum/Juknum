@@ -1,66 +1,118 @@
-<h1 align="center">
-<img src="https://lumiere-a.akamaihd.net/v1/images/image_24de51ea.gif" height="28">
-Hello There
-<img src="https://lumiere-a.akamaihd.net/v1/images/image_24de51ea.gif" height="28">
-</h1>
-
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=Juknum&style=for-the-badge&base=4212&label=Thanks%20for%20Visiting!">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/dark_mode.svg">
+    <img alt="Juknum Terminal Card" src=".github/assets/light_mode.svg" width="100%">
+  </picture>
 </p>
-
-## What I'm up to
-
-I'm currently working full time as an **analyst & software developer**, primarily around **.NET technologies** — building, maintaining, and improving software solutions day to day.
-
-On the side, I also tinker on personal projects. Most recently, I've been working on **[CSStats+](https://github.com/Juknum/csstats-plus)**, a browser extension that enhances the [csstats.gg](https://csstats.gg) experience with additional stats and quality-of-life improvements.
-
-## Projects I worked on
 
 <details>
-<summary><strong>Click to expand</strong></summary>
+<summary>
+<strong>What I'm up to &amp; Projects</strong>
+</summary>
 <br>
 
-<img src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/main_logo.gif" align="left" height="150">
+### Current Focus
 
-<h3><a href="https://www.faithfulpack.net/">Faithful Resource Pack</a></h3>
+I work full time as an **analyst & software developer**, primarily around **.NET & backend engineering** — building robust systems, APIs, and tooling day to day.
+
+---
+
+### Latest Projects &amp; News
+
+<img src="https://avatars.githubusercontent.com/u/66220778" align="left" height="110">
+
+<h4><a href="https://modrinth.com/resourcepack/faithful-3d/versions">Faithful 3D</a></h4>
 <p align="justify">
-Being a developer since the early days of the project until June 2023, I have been assisting this well-known resource pack in meeting its diverse and varied needs. Including creating the website, a web application, a Discord bot, and an API to integrate everything seamlessly.
+A companion resource pack to Faithful that elevates Minecraft textures into intricate 3D block and item models with custom geometry, optimized rendering, and consistent vanilla-faithful aesthetics.
 </p>
+<p align="right">
+<a href="https://www.curseforge.com/minecraft/texture-packs/faithful-3d">CurseForge</a>&nbsp;•
+<a href="https://modrinth.com/resourcepack/faithful-3d/versions">Modrinth</a>
+</p>
+<br>
 
+<img src="https://raw.githubusercontent.com/Juknum/csstats-plus/main/public/icon/256.png" align="left" height="110">
+
+<h4><a href="https://github.com/Juknum/csstats-plus">CSStats+</a></h4>
+<p align="justify">
+A modern browser extension enhancing the <a href="https://csstats.gg/">csstats.gg</a> experience with richer performance statistics, in-depth player analytics, custom overlays, and quality-of-life UI/UX improvements.
+</p>
+<p align="right">
+<a href="https://github.com/Juknum/csstats-plus">Repository</a>
+</p>
+<br>
+
+<img src="https://raw.githubusercontent.com/TheRolfFR/firestorm-db/main/img/firestorm.png" align="left" height="110">
+
+<h4><a href="https://github.com/TheRolfFR/firestorm-db">firestorm-db</a></h4>
+<p align="justify">
+A self-hosted Firestore-like database engine with lightweight API endpoints optimized for fast micro bulk operations, data querying, and flexible document storage.
+</p>
+<p align="right">
+<a href="https://github.com/TheRolfFR/firestorm-db">Repository</a>&nbsp;•
+<a href="https://therolffr.github.io/firestorm-db/">Documentation</a>
+</p>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juknum/counter-strike-icons/main/cs2/panorama/images/icons/ct_logo.svg">
+  <img src="https://raw.githubusercontent.com/Juknum/counter-strike-icons/main/cs2/panorama/images/icons/t_logo.svg" align="left" width="110" height="110">
+</picture>
+
+<h4><a href="https://github.com/Juknum/counter-strike-icons">counter-strike-icons</a></h4>
+<p align="justify">
+An automated asset extraction repository that tracks Valve game updates to provide always up-to-date SVG vector icons and media files from Counter-Strike 2 and CS:GO.
+</p>
+<p align="right">
+<a href="https://github.com/Juknum/counter-strike-icons">Repository</a>
+</p>
+<br>
+
+<img src="https://raw.githubusercontent.com/Juknum/Windows.ContextMenu/main/.github/assets/logo.png" align="left" height="110">
+
+<h4><a href="https://github.com/Juknum/Windows.ContextMenu">Windows.ContextMenu</a></h4>
+<p align="justify">
+A lightweight .NET library and NuGet package to easily register, configure, and manage custom application commands in the native Windows Explorer context menu.
+</p>
+<p align="right">
+<a href="https://github.com/Juknum/Windows.ContextMenu">Repository</a>&nbsp;•
+<a href="https://www.nuget.org/packages/Juknum.Windows.ContextMenu/">NuGet Package</a>
+</p>
+<br>
+
+---
+
+### Featured Past Projects
+
+<img src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/main_logo.gif" align="left" height="120">
+
+<h4><a href="https://www.faithfulpack.net/">Faithful Resource Pack</a></h4>
+<p align="justify">
+Developer on the project until June 2023, building and maintaining web infrastructure including the public website, interactive web application, Discord community bot, and backend API.
+</p>
 <p align="right">
 <a href="https://github.com/Faithful-Resource-Pack/API">API</a>&nbsp;•
 <a href="https://github.com/Faithful-Resource-Pack/Website">Website</a>&nbsp;•
 <a href="https://github.com/Faithful-Resource-Pack/App">Web App</a>&nbsp;•
 <a href="https://github.com/Faithful-Resource-Pack/CompliBot">Discord Bot</a>
 </p>
+<br>
 
-<img src="https://avatars.githubusercontent.com/u/4517438" align="left" height="150">
+<img src="https://github.com/user-attachments/assets/e66b2731-48f3-434d-9712-6cfc86d919a9" align="left" width="120">
 
-<h3><a href="https://ae.utbm.fr">UTBM's Students Association</a></h3>
+<h4><a href="https://utbm.fr">UTBM</a> — Studies &amp; Projects</h4>
 <p align="justify">
-In charge of maintaining the association's website from September 2021 until June 2023, we've decided to start a rewrite to make it more modern and easier to maintain, including a new API to manage the association's data and make it available to everyone within the association.
+As an engineering student at UTBM, I developed various academic and collaborative software projects, maintained the student association's website (2021–2023), and authored developer templates such as the university internship report LaTeX template.
 </p>
-
 <p align="right">
-<a href="https://github.com/ae-utbm/api">API</a>&nbsp;•
-<a href="https://github.com/ae-utbm/sith4">Website</a>
+<a href="https://ae.utbm.fr">AE Website</a>&nbsp;•
+<a href="https://github.com/Juknum/UTBM-Internship-Report">Internship Report Template</a>
 </p>
-
-<img src="https://github.com/user-attachments/assets/e66b2731-48f3-434d-9712-6cfc86d919a9" align="left" width="150">
-
-<h3><a href="https://utbm.fr">UTBM</a>'s studies projects</h3>
-<p align="justify">
-As a student, I had to work on various projects, sometimes in coordination with other students, which you can find on my profile. I have also made some side projects for myself and other students:
-</p>
-
-<p align="right">
-<a href="https://github.com/Juknum/UTBM-Internship-Report">UTBM Internship Report LaTeX template</a>&nbsp;
-</p>
-<br/>
+<br>
 
 </details>
 
----
+<br>
 
 <p align="center">
  <img height="32" src="https://images-ext-2.discordapp.net/external/T6Cv-e0Xpc42I5VAV-G8wYCqt7mgI4ewjEWmtwDq4iU/https/cdn.discordapp.com/emojis/799357507126427699">
