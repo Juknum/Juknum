@@ -22,7 +22,7 @@ text, tspan {white-space: pre;}
 <text x="25" y="30" fill="#c9d1d9">
 <tspan x="25" y="30" class="header">julien@juknum</tspan><tspan class="bar"> -——————————————————————————————————————————————-—-</tspan>
 <tspan x="25" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Windows, Linux, macOS</tspan>
-<tspan x="25" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ..................... </tspan><tspan class="value" id="age_data">7 years, 4 months, 3 days</tspan>
+<tspan x="25" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ..................... </tspan><tspan class="value" id="age_data">7 years, 4 months, 2 days</tspan>
 <tspan x="25" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Analyst &amp; Software Developer</tspan>
 <tspan x="25" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">.NET &amp; Backend Engineering</tspan>
 <tspan x="25" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Visual Studio, VS Code, IntelliJ</tspan>
